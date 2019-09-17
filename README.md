@@ -1,2 +1,3 @@
 # Trading-Card-Project
-Into to css styling
+
+An Intro to html and css.
