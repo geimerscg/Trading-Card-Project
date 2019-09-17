@@ -1,0 +1,30 @@
+.wholecard {
+  border: 1px solid #efefef;
+  width: 310px;
+  box-shadow: 5px 5px #efefef;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box {
+  margin: 4px;
+  border: 1px solid #efefef;
+  width: 300px;
+}
+.text {
+  font-size: 10pt;
+  padding: 5px;
+  text-align: left;
+}
+.name {
+  height: 25px;
+  border: 1px solid #ffffff;
+}
+.fact {
+  font-style: italic;
+}
+.listlabel {
+  font-weight: bold;
+}
+.statlist {
+  list-style: none;
+}
